@@ -1,0 +1,111 @@
+	
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+header {
+	background: black;
+	margin: 0 auto;
+}
+.titulo2{
+	position: relative;
+	display: inline-block;
+	padding: 1% 1%;
+}
+h3{
+	float: left;
+	font: 1.5em Times bold; 
+}
+.span{
+	font:0.9em Times bold;
+	display: inline-block;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.img-banner{
+	max-width:100%; 
+}
+
+.logo-img {
+	width: 80px;
+}
+nav{
+	width: 65%;
+	float: right;
+	font: 0.8em arial;
+	margin-top:3%;
+	margin-right: 0;
+}
+nav li{
+	list-style: none;
+	display: inline-block;
+	position: relative;
+	padding: 1% 1%;
+	color: white;
+}
+a{	
+	text-decoration: none;
+}
+a:hover {
+	background: #D8D8D8;
+	color:red bold;
+	padding: 2% 1%;
+}
+.img{
+	max-width: 100%;
+	border: 1% solid grey;
+	padding: 2% 2%;
+}
+.bg-gray{
+	background: #eee;
+}
+
+hr{
+	background-color: black;
+  	height:2px;
+  	width: 100%;
+}
+.dere{
+	display: inline-block;
+	max-width: 100%;
+}
+.derecho{
+	font: 0.8em Arial;
+}
+
+.icon{
+	width: 7%;
+
+}
+h4{
+	font: 1.2em Arial;
+}
+footer{
+	background: #1C1C1C;
+	padding: 2% 2%;
+}
+.more{
+	color: white;
+	font-size: 1.1em;
+}
+.menu{
+	color: #A4A4A4;
+	font-size: 0.9em;
+	text-align: center;
+}
+.copyright{
+	color:#585858;
+	font-size: 0.7em;
+	text-align: center;
+}
+.foo{
+	padding: 1% 1%;
+}
+.menu li{
+	list-style: none;
+	display: inline-block;
+	position: relative;
+	padding: 1% 1%;
+	color: white;
+}
